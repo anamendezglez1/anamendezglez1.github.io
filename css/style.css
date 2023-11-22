@@ -1,0 +1,130 @@
+
+
+.hero-img-top {
+    background: url('../img/Pgina_principal@2x.png')  no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    height:80vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.hero-img-content {
+    height:100px;
+    width: 400px;
+}
+
+.hero-img-x {
+    display: flex;
+}
+
+#h1{
+    font-size: 80px;
+    color: black;
+    letter-spacing: 10px;
+    font-style: normal;
+    margin-top: 58px;
+    
+}
+
+#h2{
+    font-size: 120px;
+    color: black;
+    letter-spacing:15px;
+    font-style: normal;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+#h3{
+    font-size: 80px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    letter-spacing: 2px;
+    font-style: normal;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.row{
+    margin-bottom: 0px;
+}
+
+#card-1{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+
+}
+
+#card-2{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+#card-3{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+ #h7{
+    font-size: 80px;
+    color: #99BBFC;
+    letter-spacing: 2px;
+    font-style: normal;
+   
+ }
+
+ #h8{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    font-style: normal;
+    margin-right: 20px;
+ 
+ }
+
+ #p1{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    letter-spacing: 2px;
+    font-style: normal;
+    margin: 55px;
+
+ }
+
+ #p2{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    font-style: normal;
+    margin-top: 20px;
+    
+ }
+
+ #p3{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    font-style: normal;
+   
+ }
+
+ #p4{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    font-style: normal;
+    margin-bottom: 20px;
+ }
+
+
+
+
+
